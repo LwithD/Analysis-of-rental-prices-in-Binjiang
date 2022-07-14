@@ -15,5 +15,5 @@
 
 效果图（西兴的水真深）：
 
-![image-20220714205914744](.\result.PNG)
+![result.png](result.PNG)
 
